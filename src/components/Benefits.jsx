@@ -53,7 +53,7 @@ const Benefits = () => {
         <img className='w-full md:w-1/2 p-4' src="https://a.storyblok.com/f/165154/1080x1080/6120ad9f16/helatoconnect-lp-hero-gif-updated_2-compressed.gif/m/" alt="" />
         <div className="w-[80%] mx-auto md:w-[30%] md:pl-8">
             <p className="text-gray-600 mb-2 text-2xl">For print producers</p>
-            <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">GelatoConnect</h2>
+            <h2 className="text-3xl sm:text-4xl md:text-[4.5rem] font-bold mb-4">GelatoConnect</h2>
             <p className="text-[1rem] sm:text-xl my-6">
               Elevate efficiency, cut costs, and seamlessly automate with our all-in-one software solution for the print industry
             </p>
