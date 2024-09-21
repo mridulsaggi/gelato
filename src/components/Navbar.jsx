@@ -62,7 +62,7 @@ const Navbar = () => {
                         </a>
                     </div>
                 </div>
-                <div className="hidden md:block border-2">
+                <div className="hidden md:block">
                     <div className="hidden sm:ml-6 sm:flex sm:space-x-8 w-full h-[3rem]">
                         <a href="#" className="border-transparent text-black hover:border-gray-300 hover:text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                             Products
