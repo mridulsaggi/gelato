@@ -49,7 +49,7 @@ const Home = () => {
                     <p>of orders arrive within 5 days of ordering</p>
                 </div>
                 <div className="w-[20%] text-center text-black font-bold text-[1.3rem] flex flex-row md:flex-col">
-                    <p>90%</p>
+                    <p>140%</p>
                     <p>print providers across 32 countries</p>
                 </div>
 
